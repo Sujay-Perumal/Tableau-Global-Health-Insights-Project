@@ -25,22 +25,27 @@ You can view and interact with the full dashboard online here:
 These screenshots showcase the design, map visualizations, and detailed analytical views implemented in the dashboard:
 
 ### 🌍 Global Summary View
+<img width="1911" height="857" alt="image" src="https://github.com/user-attachments/assets/c0411aef-e6e3-40ab-b3d3-d735564d9123" />
 
 *Overview of high-level KPIs, global map visualization, and regional performance.*
 
 ### 📈 Detailed Trend Analysis
+<img width="1706" height="857" alt="image" src="https://github.com/user-attachments/assets/4bcbf420-bf0b-4486-9f57-248a6dce1481" />
 
 *Focus on time-series analysis for specific health indicators across selected countries.*
 
 ### 📊 Metric Comparison
+<img width="1702" height="858" alt="image" src="https://github.com/user-attachments/assets/96711c81-bac3-4ff6-b0fc-d8cc180454ea" />
 
-*Comparison of key health metrics (e.g., life expectancy vs. mortality) using scatter plots or bar charts.*
+*Comparison of key health metrics (e.g., life expectancy vs. BMI) using scatter plot.*
 
 ### 🗺️ Geographic Filtering
+<img width="1705" height="857" alt="image" src="https://github.com/user-attachments/assets/b1c2bd36-1a6d-4ba4-bf50-5af2829774ea" />
 
 *Detailed map view showcasing geographic distribution of health data.*
 
 ### ⚙️ Interactive Controls
+<img width="1706" height="864" alt="image" src="https://github.com/user-attachments/assets/38939975-17aa-4529-9a24-0a2bdb9bb9c8" />
 
 *Demonstration of parameter usage and interactive filtering elements.*
 
